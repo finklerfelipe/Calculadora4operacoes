@@ -1,0 +1,10 @@
+C:\Users\felip\source\repos\calculadoraG2\bin\Debug\calculadoraG2.exe.config
+C:\Users\felip\source\repos\calculadoraG2\bin\Debug\calculadoraG2.exe
+C:\Users\felip\source\repos\calculadoraG2\bin\Debug\calculadoraG2.pdb
+C:\Users\felip\source\repos\calculadoraG2\obj\Debug\calculadoraG2.csprojAssemblyReference.cache
+C:\Users\felip\source\repos\calculadoraG2\obj\Debug\calculadoraG2.Form1.resources
+C:\Users\felip\source\repos\calculadoraG2\obj\Debug\calculadoraG2.Properties.Resources.resources
+C:\Users\felip\source\repos\calculadoraG2\obj\Debug\calculadoraG2.csproj.GenerateResource.cache
+C:\Users\felip\source\repos\calculadoraG2\obj\Debug\calculadoraG2.csproj.CoreCompileInputs.cache
+C:\Users\felip\source\repos\calculadoraG2\obj\Debug\calculadoraG2.exe
+C:\Users\felip\source\repos\calculadoraG2\obj\Debug\calculadoraG2.pdb
